@@ -34,6 +34,8 @@ try: import selenium
 except: os.system("pip install selenium")
 try: import time
 except: os.system("pip install time")
+try: import bs4
+except: os.system("pip install bs4")
 
 os.system("title Dead Tool v1 - Devlopped by Ako")
 from colorama import *
