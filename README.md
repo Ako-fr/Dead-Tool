@@ -11,3 +11,5 @@
 <img src="https://cdn.discordapp.com/attachments/858053024948944907/860580626247712778/unknown.png"><br>
 <h1>Information : </h1>
 <h2>Des nouvelles chose seront bientôt disponible, pour être tenu au courant, rejoignez mon serveur discord, ou accéder au Tool info [5]</h2>
+<h1>A noter :</h1>
+<h2>La partie "Module" est développé par <a href="https://github.com/lulz3xploit">Lulz3xploit</a> vous pouvez retrouvez le tool ici <a href="https://github.com/lulz3xploit/LittleBrother">Little Brother</a></h2>
